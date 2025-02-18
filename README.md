@@ -4,6 +4,7 @@
 **Who we are**  
 Quantum Vox is a cutting-edge Minecraft modding group pushing the boundaries of gameplay with innovative, high-tech mods. Explore new dimensions, harness futuristic mechanics, and reshape the voxel world like never before. Join us on the frontier of Minecraft innovation!
 
+![Discord](https://img.shields.io/discord/1341414351504146502?style=for-the-badge&label=Discord)
 <!--
 
 **Here are some ideas to get you started:**
